@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use the analysis or software. Cite NASA POWER separately for the source data."
+title: "Zambia Solar Resource Observatory"
+type: software
+authors:
+  - family-names: Kaputula
+    given-names: Kenneth Gondwe
+repository-code: "https://github.com/GovernorKaputula/zambia-solar-resource"
+url: "https://governorkaputula.github.io/zambia-solar-resource/"
+version: 1.0.0
+date-released: 2026-10-11
+license: MIT

@@ -1,0 +1,1 @@
+"""Zambia solar resource study."""

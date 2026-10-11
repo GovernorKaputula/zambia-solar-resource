@@ -1,0 +1,212 @@
+{
+  "Lusaka": {
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M&community=RE&latitude=-15.4167&longitude=28.2833&start=20140101&end=20251231&format=JSON&time-standard=LST",
+    "retrieved_utc": "2026-10-11T13:03:00.727445+00:00",
+    "sha256": "6405a753fa96c1c3dd7effda8c4e2d224445fcf43e4dff953c2a6cc6907f284e",
+    "file": "data/raw/lusaka.json",
+    "parameters": {
+      "ALLSKY_SFC_SW_DWN": {
+        "units": "kW-hr/m^2/day",
+        "longname": "All Sky Surface Shortwave Downward Irradiance"
+      },
+      "T2M": {
+        "units": "C",
+        "longname": "Temperature at 2 Meters"
+      }
+    },
+    "header": {
+      "title": "NASA/POWER Source Native Resolution Daily Data",
+      "api": {
+        "version": "v2.10.0",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG",
+        "MERRA2"
+      ],
+      "fill_value": -999.0,
+      "time_standard": "LST",
+      "start": "20140101",
+      "end": "20251231"
+    },
+    "requested_coordinates": {
+      "latitude": -15.4167,
+      "longitude": 28.2833
+    }
+  },
+  "Livingstone": {
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M&community=RE&latitude=-17.8419&longitude=25.8543&start=20140101&end=20251231&format=JSON&time-standard=LST",
+    "retrieved_utc": "2026-10-11T13:03:03.044345+00:00",
+    "sha256": "fe8e59fce1b64a61ab38845cd511f95656c82acd095909a8924b2cef21a905cf",
+    "file": "data/raw/livingstone.json",
+    "parameters": {
+      "ALLSKY_SFC_SW_DWN": {
+        "units": "kW-hr/m^2/day",
+        "longname": "All Sky Surface Shortwave Downward Irradiance"
+      },
+      "T2M": {
+        "units": "C",
+        "longname": "Temperature at 2 Meters"
+      }
+    },
+    "header": {
+      "title": "NASA/POWER Source Native Resolution Daily Data",
+      "api": {
+        "version": "v2.10.0",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG",
+        "MERRA2"
+      ],
+      "fill_value": -999.0,
+      "time_standard": "LST",
+      "start": "20140101",
+      "end": "20251231"
+    },
+    "requested_coordinates": {
+      "latitude": -17.8419,
+      "longitude": 25.8543
+    }
+  },
+  "Ndola": {
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M&community=RE&latitude=-12.9689&longitude=28.6366&start=20140101&end=20251231&format=JSON&time-standard=LST",
+    "retrieved_utc": "2026-10-11T13:03:05.237372+00:00",
+    "sha256": "b492c05fac1802ef8472c975f775700ad2f99f38876823a605cbb9afee049269",
+    "file": "data/raw/ndola.json",
+    "parameters": {
+      "ALLSKY_SFC_SW_DWN": {
+        "units": "kW-hr/m^2/day",
+        "longname": "All Sky Surface Shortwave Downward Irradiance"
+      },
+      "T2M": {
+        "units": "C",
+        "longname": "Temperature at 2 Meters"
+      }
+    },
+    "header": {
+      "title": "NASA/POWER Source Native Resolution Daily Data",
+      "api": {
+        "version": "v2.10.0",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG",
+        "MERRA2"
+      ],
+      "fill_value": -999.0,
+      "time_standard": "LST",
+      "start": "20140101",
+      "end": "20251231"
+    },
+    "requested_coordinates": {
+      "latitude": -12.9689,
+      "longitude": 28.6366
+    }
+  },
+  "Chipata": {
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M&community=RE&latitude=-13.6333&longitude=32.65&start=20140101&end=20251231&format=JSON&time-standard=LST",
+    "retrieved_utc": "2026-10-11T13:03:07.525497+00:00",
+    "sha256": "4eb0d5347087850fb0083a3cc58fbb602f1b9374898fcb14d6d238901c13dde4",
+    "file": "data/raw/chipata.json",
+    "parameters": {
+      "ALLSKY_SFC_SW_DWN": {
+        "units": "kW-hr/m^2/day",
+        "longname": "All Sky Surface Shortwave Downward Irradiance"
+      },
+      "T2M": {
+        "units": "C",
+        "longname": "Temperature at 2 Meters"
+      }
+    },
+    "header": {
+      "title": "NASA/POWER Source Native Resolution Daily Data",
+      "api": {
+        "version": "v2.10.0",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "MERRA2",
+        "SYN1DEG"
+      ],
+      "fill_value": -999.0,
+      "time_standard": "LST",
+      "start": "20140101",
+      "end": "20251231"
+    },
+    "requested_coordinates": {
+      "latitude": -13.6333,
+      "longitude": 32.65
+    }
+  },
+  "Kasama": {
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M&community=RE&latitude=-10.2129&longitude=31.1808&start=20140101&end=20251231&format=JSON&time-standard=LST",
+    "retrieved_utc": "2026-10-11T13:03:09.093160+00:00",
+    "sha256": "27c98f111c5ef83d02a2afae3b3ab56b8d8772f0ac9229aebc1fe77f9be0aceb",
+    "file": "data/raw/kasama.json",
+    "parameters": {
+      "ALLSKY_SFC_SW_DWN": {
+        "units": "kW-hr/m^2/day",
+        "longname": "All Sky Surface Shortwave Downward Irradiance"
+      },
+      "T2M": {
+        "units": "C",
+        "longname": "Temperature at 2 Meters"
+      }
+    },
+    "header": {
+      "title": "NASA/POWER Source Native Resolution Daily Data",
+      "api": {
+        "version": "v2.10.0",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG",
+        "MERRA2"
+      ],
+      "fill_value": -999.0,
+      "time_standard": "LST",
+      "start": "20140101",
+      "end": "20251231"
+    },
+    "requested_coordinates": {
+      "latitude": -10.2129,
+      "longitude": 31.1808
+    }
+  },
+  "Mongu": {
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M&community=RE&latitude=-15.2484&longitude=23.1274&start=20140101&end=20251231&format=JSON&time-standard=LST",
+    "retrieved_utc": "2026-10-11T13:03:11.331999+00:00",
+    "sha256": "00eedcb826e20fc3420600e216f085354030bc60674a138d8346ff6596293b8d",
+    "file": "data/raw/mongu.json",
+    "parameters": {
+      "ALLSKY_SFC_SW_DWN": {
+        "units": "kW-hr/m^2/day",
+        "longname": "All Sky Surface Shortwave Downward Irradiance"
+      },
+      "T2M": {
+        "units": "C",
+        "longname": "Temperature at 2 Meters"
+      }
+    },
+    "header": {
+      "title": "NASA/POWER Source Native Resolution Daily Data",
+      "api": {
+        "version": "v2.10.0",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG",
+        "MERRA2"
+      ],
+      "fill_value": -999.0,
+      "time_standard": "LST",
+      "start": "20140101",
+      "end": "20251231"
+    },
+    "requested_coordinates": {
+      "latitude": -15.2484,
+      "longitude": 23.1274
+    }
+  }
+}
